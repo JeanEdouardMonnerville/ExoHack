@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><root>
+    <pigeons>
+        <pigeon>
+            <username>Test</username>
+            <password>mot de passe</password>
+        </pigeon>
+        <pigeon>
+            <username>jemonnerville@hotmail.fr</username>
+            <password>Jey97114</password>
+        </pigeon>
+    </pigeons>
+</root>
